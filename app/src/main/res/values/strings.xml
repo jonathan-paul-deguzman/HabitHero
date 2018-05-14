@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HabitHero</string>
+
+    <string name="toolbar_title_add_habit">Add Habit</string>
+    <string name="action_add">Add</string>
+
+    <string name="text_habit_name">Habit Name</string>
+</resources>
